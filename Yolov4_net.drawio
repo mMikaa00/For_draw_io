@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-14T07:29:52.098Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/81.0.4044.138 Chrome/81.0.4044.138 Safari/537.36" etag="45G7vQeHPe0B3K2lIKxJ" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-14T07:30:43.074Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/81.0.4044.138 Chrome/81.0.4044.138 Safari/537.36" etag="a2PJa-v5Yk-5E6Qm-xYc" version="13.1.1" type="github">
   <diagram id="2j0Wj2clr_hK4ZMGOZxE" name="Page-1">
-    <mxGraphModel dx="1939" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2714" dy="1456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,11 +321,11 @@
         <mxCell id="uQFEA6QVpBDMVat-9isN-129" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; float: none ; display: inline&quot;&gt;MaxPooling(5*5)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="318" y="1320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uQFEA6QVpBDMVat-9isN-134" value="Yolov4 network structure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;fontSize=36;" vertex="1" parent="1">
-          <mxGeometry x="570" y="520" width="410" height="50" as="geometry" />
+        <mxCell id="uQFEA6QVpBDMVat-9isN-134" value="Yolov4 network structure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="550" y="520" width="450" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uQFEA6QVpBDMVat-9isN-135" value="made by mikaa&lt;br&gt;&lt;br&gt;liu3612162@163.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="680" y="590" width="170" height="60" as="geometry" />
+        <mxCell id="uQFEA6QVpBDMVat-9isN-135" value="made by mikaa&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;liu3612162@163.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="660" y="580" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
