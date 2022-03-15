@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T06:35:13.049Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="s0uNN6ywJlxrRAhsCkyQ" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T06:48:22.274Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="pSyQoJVAfm5i4FFA6i_Q" version="17.1.2" type="github">
   <diagram id="qb0dEbikMY-8Ct2QXT_G" name="Page-1">
-    <mxGraphModel dx="2538" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3305" dy="1464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,6 +183,18 @@
         </mxCell>
         <mxCell id="_857AmooteqMtwKk63D_-17" value="Simulation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-380" y="290" width="467.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_857AmooteqMtwKk63D_-18" value="可用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_857AmooteqMtwKk63D_-19" value="开发中" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#6c8ebf;fillColor=#dae8fc;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="763" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_857AmooteqMtwKk63D_-20" value="待开发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#666666;fontColor=#333333;dashed=1;flipH=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_857AmooteqMtwKk63D_-21" value="外购" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="837" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
