@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T06:51:14.833Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4629.0 Safari/537.36 Edg/95.0.1011.1" etag="s-yd3Hnml1dRU0z5vbqu" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T08:23:44.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="tQKqBoD-0O4K3dOz34R9" version="18.0.2" type="github">
   <diagram id="M9jlNWi92LXOIX4tGL-l" name="Page-1">
-    <mxGraphModel dx="1990" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.221;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitPerimeter=0;" parent="1" source="VcjJJbHRZWfHmHbc2jYD-1" target="VcjJJbHRZWfHmHbc2jYD-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="890" y="398" />
-              <mxPoint x="890" y="320" />
+              <mxPoint x="890" y="248" />
+              <mxPoint x="890" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -17,26 +17,26 @@
             <mxPoint y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rhrq0TFpw3SpQU8seue_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="VcjJJbHRZWfHmHbc2jYD-1" target="Rhrq0TFpw3SpQU8seue_-12">
+        <mxCell id="Rhrq0TFpw3SpQU8seue_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="VcjJJbHRZWfHmHbc2jYD-1" target="Rhrq0TFpw3SpQU8seue_-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rhrq0TFpw3SpQU8seue_-21" value="RJ45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rhrq0TFpw3SpQU8seue_-18">
+        <mxCell id="Rhrq0TFpw3SpQU8seue_-21" value="RJ45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Rhrq0TFpw3SpQU8seue_-18" vertex="1" connectable="0">
           <mxGeometry x="0.1707" y="1" relative="1" as="geometry">
             <mxPoint x="9" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-1" value="Xavier&lt;br&gt;（NTP server）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="760" y="380" width="100" height="80" as="geometry" />
+          <mxGeometry x="760" y="230" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-3" value="GNSS模块（rover）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="750" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="750" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="VcjJJbHRZWfHmHbc2jYD-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="460" as="targetPoint" />
+            <mxPoint x="370" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="480" />
-              <mxPoint x="370" y="480" />
+              <mxPoint x="330" y="330" />
+              <mxPoint x="370" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -46,7 +46,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-4" value="IMU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="300" y="520" width="60" height="40" as="geometry" />
+          <mxGeometry x="300" y="370" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VcjJJbHRZWfHmHbc2jYD-5" target="VcjJJbHRZWfHmHbc2jYD-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -57,11 +57,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-5" value="GNSS&lt;br&gt;天线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="840" y="190" width="40" height="40" as="geometry" />
+          <mxGeometry x="840" y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="VcjJJbHRZWfHmHbc2jYD-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810.0000000000002" y="460" as="targetPoint" />
+            <mxPoint x="810.0000000000002" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-15" value="CAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VcjJJbHRZWfHmHbc2jYD-9" vertex="1" connectable="0">
@@ -70,12 +70,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-8" value="线控底盘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="780" y="520" width="60" height="40" as="geometry" />
+          <mxGeometry x="780" y="370" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rhrq0TFpw3SpQU8seue_-25" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="510" as="sourcePoint" />
-            <mxPoint x="600" y="461" as="targetPoint" />
+            <mxPoint x="540" y="360" as="sourcePoint" />
+            <mxPoint x="600" y="311" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-16" value="RJ45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VcjJJbHRZWfHmHbc2jYD-11" vertex="1" connectable="0">
@@ -85,10 +85,10 @@
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="VcjJJbHRZWfHmHbc2jYD-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="460" as="targetPoint" />
+            <mxPoint x="410" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="455" y="480" />
-              <mxPoint x="410" y="480" />
+              <mxPoint x="455" y="330" />
+              <mxPoint x="410" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -98,69 +98,202 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-18" value="摄像头*N个" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="420" y="520" width="70" height="40" as="geometry" />
+          <mxGeometry x="420" y="370" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Rhrq0TFpw3SpQU8seue_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VcjJJbHRZWfHmHbc2jYD-23" target="VcjJJbHRZWfHmHbc2jYD-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VcjJJbHRZWfHmHbc2jYD-23" value="千寻服务（base）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="420" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VcjJJbHRZWfHmHbc2jYD-23" value="GNSS模块（base）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="330" y="280" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="VcjJJbHRZWfHmHbc2jYD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VcjJJbHRZWfHmHbc2jYD-26" target="VcjJJbHRZWfHmHbc2jYD-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VcjJJbHRZWfHmHbc2jYD-25" value="馈线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VcjJJbHRZWfHmHbc2jYD-24" vertex="1" connectable="0">
-          <mxGeometry x="0.1321" y="-1" relative="1" as="geometry">
-            <mxPoint y="-6" as="offset" />
+        <mxCell id="VcjJJbHRZWfHmHbc2jYD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" parent="1" target="VcjJJbHRZWfHmHbc2jYD-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540.0000000000002" y="170.0000000000001" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="VcjJJbHRZWfHmHbc2jYD-26" value="GNSS天线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="370" y="190" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VcjJJbHRZWfHmHbc2jYD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" parent="1" source="VcjJJbHRZWfHmHbc2jYD-32" target="VcjJJbHRZWfHmHbc2jYD-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VcjJJbHRZWfHmHbc2jYD-40" value="无线信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VcjJJbHRZWfHmHbc2jYD-39" vertex="1" connectable="0">
           <mxGeometry x="0.1476" y="1" relative="1" as="geometry">
             <mxPoint x="-9" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VcjJJbHRZWfHmHbc2jYD-32" value="数传" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="480" y="300" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rhrq0TFpw3SpQU8seue_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="VcjJJbHRZWfHmHbc2jYD-33" target="VcjJJbHRZWfHmHbc2jYD-3">
+        <mxCell id="Rhrq0TFpw3SpQU8seue_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="VcjJJbHRZWfHmHbc2jYD-33" target="VcjJJbHRZWfHmHbc2jYD-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VcjJJbHRZWfHmHbc2jYD-33" value="数传" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="660" y="300" width="60" height="40" as="geometry" />
+        <mxCell id="VcjJJbHRZWfHmHbc2jYD-33" value="4G" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="660" y="150" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Rhrq0TFpw3SpQU8seue_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rhrq0TFpw3SpQU8seue_-4" target="VcjJJbHRZWfHmHbc2jYD-3">
+        <mxCell id="Rhrq0TFpw3SpQU8seue_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Rhrq0TFpw3SpQU8seue_-4" target="VcjJJbHRZWfHmHbc2jYD-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rhrq0TFpw3SpQU8seue_-7" value="馈线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rhrq0TFpw3SpQU8seue_-5">
+        <mxCell id="Rhrq0TFpw3SpQU8seue_-7" value="馈线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Rhrq0TFpw3SpQU8seue_-5" vertex="1" connectable="0">
           <mxGeometry x="-0.1611" relative="1" as="geometry">
             <mxPoint x="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rhrq0TFpw3SpQU8seue_-4" value="GNSS&lt;br&gt;天线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="740" y="190" width="40" height="40" as="geometry" />
+        <mxCell id="Rhrq0TFpw3SpQU8seue_-4" value="GNSS&lt;br&gt;天线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="740" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Rhrq0TFpw3SpQU8seue_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Rhrq0TFpw3SpQU8seue_-11" target="Rhrq0TFpw3SpQU8seue_-12">
+        <mxCell id="Rhrq0TFpw3SpQU8seue_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="Rhrq0TFpw3SpQU8seue_-11" target="Rhrq0TFpw3SpQU8seue_-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rhrq0TFpw3SpQU8seue_-19" value="RJ45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rhrq0TFpw3SpQU8seue_-17">
+        <mxCell id="Rhrq0TFpw3SpQU8seue_-19" value="RJ45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Rhrq0TFpw3SpQU8seue_-17" vertex="1" connectable="0">
           <mxGeometry x="-0.1797" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rhrq0TFpw3SpQU8seue_-11" value="Xavier" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="340" y="380" width="100" height="80" as="geometry" />
+        <mxCell id="Rhrq0TFpw3SpQU8seue_-11" value="Xavier" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="340" y="230" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Rhrq0TFpw3SpQU8seue_-12" value="交换机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="560" y="380" width="80" height="80" as="geometry" />
+        <mxCell id="Rhrq0TFpw3SpQU8seue_-12" value="交换机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="560" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Rhrq0TFpw3SpQU8seue_-25" value="激光雷达*N个" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="550" y="520" width="100" height="40" as="geometry" />
+        <mxCell id="Rhrq0TFpw3SpQU8seue_-25" value="激光雷达*N个" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="550" y="370" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.221;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" source="LJSfkNbZEh7NbkuLXT7F-5" target="LJSfkNbZEh7NbkuLXT7F-6" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="688" />
+              <mxPoint x="820" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-2" value="RS232" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LJSfkNbZEh7NbkuLXT7F-1">
+          <mxGeometry x="-0.1233" y="-1" relative="1" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="LJSfkNbZEh7NbkuLXT7F-5" target="LJSfkNbZEh7NbkuLXT7F-32" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-4" value="RJ45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LJSfkNbZEh7NbkuLXT7F-3">
+          <mxGeometry x="0.1707" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-5" value="Xavier&lt;br&gt;（NTP server）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="690" y="670" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-6" value="GNSS模块（rover）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="680" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="LJSfkNbZEh7NbkuLXT7F-9" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720.0000000000002" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="770" />
+              <mxPoint x="720" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-8" value="RS232" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LJSfkNbZEh7NbkuLXT7F-7">
+          <mxGeometry x="-0.3667" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-9" value="IMU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="660" y="810" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LJSfkNbZEh7NbkuLXT7F-12" target="LJSfkNbZEh7NbkuLXT7F-6" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-11" value="馈线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LJSfkNbZEh7NbkuLXT7F-10">
+          <mxGeometry x="0.1321" y="-1" relative="1" as="geometry">
+            <mxPoint x="4" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-12" value="GNSS&lt;br&gt;天线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="770" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" source="LJSfkNbZEh7NbkuLXT7F-15" parent="1" target="LJSfkNbZEh7NbkuLXT7F-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-14" value="CAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LJSfkNbZEh7NbkuLXT7F-13">
+          <mxGeometry x="-0.3" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-15" value="线控底盘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="860" y="690" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LJSfkNbZEh7NbkuLXT7F-33" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="800" as="sourcePoint" />
+            <mxPoint x="530.0000000000002" y="751" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-17" value="RJ45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LJSfkNbZEh7NbkuLXT7F-16">
+          <mxGeometry x="-0.2532" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="LJSfkNbZEh7NbkuLXT7F-20" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760.0000000000002" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="795" y="770" />
+              <mxPoint x="760" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-19" value="USB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LJSfkNbZEh7NbkuLXT7F-18">
+          <mxGeometry x="0.3" y="2" relative="1" as="geometry">
+            <mxPoint x="23" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-20" value="RGBD*N个" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="760" y="810" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-21" value="千寻服务（base）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="350" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" edge="1" target="LJSfkNbZEh7NbkuLXT7F-25" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470.0000000000002" y="610.0000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-23" value="无线信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LJSfkNbZEh7NbkuLXT7F-22">
+          <mxGeometry x="0.1476" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="LJSfkNbZEh7NbkuLXT7F-25" target="LJSfkNbZEh7NbkuLXT7F-6" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-25" value="4G" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="590" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="LJSfkNbZEh7NbkuLXT7F-28" target="LJSfkNbZEh7NbkuLXT7F-6" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-27" value="馈线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LJSfkNbZEh7NbkuLXT7F-26">
+          <mxGeometry x="-0.1611" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-28" value="GNSS&lt;br&gt;天线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="670" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-32" value="交换机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="490" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-33" value="激光雷达*1个" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="480" y="810" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="LJSfkNbZEh7NbkuLXT7F-34" target="LJSfkNbZEh7NbkuLXT7F-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="830" />
+              <mxPoint x="840" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-36" value="CAN or 485" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LJSfkNbZEh7NbkuLXT7F-35">
+          <mxGeometry x="0.0989" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJSfkNbZEh7NbkuLXT7F-34" value="超声波雷达*N个" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="855" y="810" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
