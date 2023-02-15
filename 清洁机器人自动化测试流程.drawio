@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T06:39:38.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" version="20.7.2" etag="TxHKMghHhjAMRhB0G0P9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T07:05:04.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" version="20.7.2" etag="2upQsA-3vzMoKy3KXf_4" type="github">
   <diagram id="Pgn85RNGTCpz5NxHwgly" name="第 1 页">
-    <mxGraphModel dx="2385" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2896" dy="1640" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,11 +56,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="412" y="390" as="sourcePoint" />
             <mxPoint x="412" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Re84y-BaIVhVe28ZomNB-23" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Re84y-BaIVhVe28ZomNB-18">
-          <mxGeometry x="0.4286" y="2" relative="1" as="geometry">
-            <mxPoint x="1486" y="570" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Re84y-BaIVhVe28ZomNB-31" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Re84y-BaIVhVe28ZomNB-18">
@@ -136,11 +131,6 @@
             <mxPoint x="210" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Re84y-BaIVhVe28ZomNB-41" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Re84y-BaIVhVe28ZomNB-40">
-          <mxGeometry x="0.4286" y="2" relative="1" as="geometry">
-            <mxPoint x="1486" y="570" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Re84y-BaIVhVe28ZomNB-42" value="install" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Re84y-BaIVhVe28ZomNB-40">
           <mxGeometry x="0.4057" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
@@ -150,11 +140,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="700" as="sourcePoint" />
             <mxPoint x="600" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Re84y-BaIVhVe28ZomNB-44" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Re84y-BaIVhVe28ZomNB-43">
-          <mxGeometry x="0.4286" y="2" relative="1" as="geometry">
-            <mxPoint x="1486" y="570" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Re84y-BaIVhVe28ZomNB-45" value="install" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Re84y-BaIVhVe28ZomNB-43">
