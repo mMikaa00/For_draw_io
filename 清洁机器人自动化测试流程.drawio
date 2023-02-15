@@ -1,1 +1,198 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T05:55:19.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" version="20.7.2" etag="CrEY2Zisn-SASKo7D4PK" type="github"><diagram id="9zkTsPdKva8J24D61o2w">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-15T06:39:38.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" version="20.7.2" etag="TxHKMghHhjAMRhB0G0P9" type="github">
+  <diagram id="Pgn85RNGTCpz5NxHwgly" name="第 1 页">
+    <mxGraphModel dx="2385" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Re84y-BaIVhVe28ZomNB-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="770" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-2" value="Gitlab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-3" value="SLAM仓库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-4" value="规控仓库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-5" value="地图仓库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-6" value="业务软件仓库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-7" value="。。。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="700" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-9" value="测试仓库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="770" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-11" value="Jenkins" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-12" value="Image1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-13" value="Image2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="600" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-14" value="Image3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-15" value="ROS_x86&lt;br&gt;环境" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-16" value="。。。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="700" y="615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-17" value="ROS_arm&lt;br&gt;环境" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="580" y="600" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;endWidth=80;endSize=8.188571428571429;width=54.857142857142854;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="412" y="390" as="sourcePoint" />
+            <mxPoint x="412" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-23" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Re84y-BaIVhVe28ZomNB-18">
+          <mxGeometry x="0.4286" y="2" relative="1" as="geometry">
+            <mxPoint x="1486" y="570" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-31" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Re84y-BaIVhVe28ZomNB-18">
+          <mxGeometry x="0.4057" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-19" value="CI&amp;amp;Code review" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="710" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-20" value="新功能开发&amp;amp;bug修复&amp;amp;测试用例更新等" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="770" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;endWidth=84;endSize=11.67;width=58;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="100" as="sourcePoint" />
+            <mxPoint x="420" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-22" value="push" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Re84y-BaIVhVe28ZomNB-21">
+          <mxGeometry x="0.3667" y="-4" relative="1" as="geometry">
+            <mxPoint x="6" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-24" value="Task management" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="530" width="710" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-26" value="Simulation cluster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="810" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-27" value="J40 simulation server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="910" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-28" value="J110 simulation server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="910" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-29" value="Test cases" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="870" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-30" value="Test cases" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="870" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="800" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-33" value="Robots" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="430" y="810" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-34" value="J40 No.1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="910" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-35" value="J40 No.2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="910" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-36" value="Test cases" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="870" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-37" value="Test cases" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="870" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-38" value="Test cases" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="870" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-39" value="J110 No.1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="680" y="910" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;endWidth=80;endSize=8.188571428571429;width=54.857142857142854;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="700" as="sourcePoint" />
+            <mxPoint x="210" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-41" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Re84y-BaIVhVe28ZomNB-40">
+          <mxGeometry x="0.4286" y="2" relative="1" as="geometry">
+            <mxPoint x="1486" y="570" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-42" value="install" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Re84y-BaIVhVe28ZomNB-40">
+          <mxGeometry x="0.4057" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;endWidth=80;endSize=8.188571428571429;width=54.857142857142854;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="700" as="sourcePoint" />
+            <mxPoint x="600" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-44" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Re84y-BaIVhVe28ZomNB-43">
+          <mxGeometry x="0.4286" y="2" relative="1" as="geometry">
+            <mxPoint x="1486" y="570" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-45" value="install" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Re84y-BaIVhVe28ZomNB-43">
+          <mxGeometry x="0.4057" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-47" value="Simulation launcher" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="980" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-48" value="Online launcher" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="980" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/avatar-128.png;rounded=1;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="850" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-50" value="全体开发人员" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="920" y="45" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/avatar-128.png;rounded=1;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="850" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-53" value="组长、专家成员" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="920" y="235" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-54" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/avatar-128.png;rounded=1;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="850" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-55" value="软件：张然&lt;br&gt;算法：潘梓颖&lt;br&gt;测试：？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="920" y="535" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/avatar-128.png;rounded=1;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="850" y="830" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Re84y-BaIVhVe28ZomNB-57" value="仿真：王振彬负责&lt;br&gt;Robots：？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="920" y="845" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
