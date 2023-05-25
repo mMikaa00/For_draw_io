@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T09:48:12.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="WyE-2SPn08QksZJwSsvw" version="20.8.23" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-25T11:02:09.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="PNFIDbn8ZYftZP-HPkzH" version="20.8.23" type="github" pages="2">
   <diagram name="已有架构" id="cq9Kw1zoQfvwtYd5RYpC">
     <mxGraphModel dx="2019" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -556,19 +556,19 @@
           <mxGeometry x="510" y="930" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rnmQEgnxFGZpxEnvx51y-97" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;strokeColor=#d6b656;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="320" height="290" as="geometry" />
+          <mxGeometry x="440" y="150" width="320" height="290" as="geometry" />
         </mxCell>
         <mxCell id="rnmQEgnxFGZpxEnvx51y-98" value="Task" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="445" y="50" width="65" height="30" as="geometry" />
+          <mxGeometry x="445" y="160" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rnmQEgnxFGZpxEnvx51y-100" value="Head：timestamp，task_type, ..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="90" width="230" height="50" as="geometry" />
+          <mxGeometry x="480" y="200" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rnmQEgnxFGZpxEnvx51y-101" value="Data(To be derived)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="170" width="230" height="50" as="geometry" />
+        <mxCell id="rnmQEgnxFGZpxEnvx51y-101" value="Template shared_ptr&amp;lt;T&amp;gt; data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rnmQEgnxFGZpxEnvx51y-102" value="Feedback(To be derived)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="250" width="230" height="50" as="geometry" />
+        <mxCell id="rnmQEgnxFGZpxEnvx51y-102" value="Template shared_ptr&amp;lt;T&amp;gt; feedback" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rnmQEgnxFGZpxEnvx51y-103" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="880" y="360" width="640" height="120" as="geometry" />
@@ -743,6 +743,15 @@
         </mxCell>
         <mxCell id="3Y4BB-6CRIuoJsSM0rY8-8" value="Data, Feedback" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1810" y="1110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XS8hypQ-9algV-yyolNX-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;strokeColor=#d6b656;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XS8hypQ-9algV-yyolNX-2" value="TaskBase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="445" y="40" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XS8hypQ-9algV-yyolNX-3" value="Virtual ~TaskBase();" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="70" width="230" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
